@@ -1,3 +1,3 @@
-design-resource
+# note
 
-A list of tools & resources for designers.
+A note in which you record somethings.
